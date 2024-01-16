@@ -26,3 +26,6 @@ This Project is based on the Human Resource management of any Organization.
  
 **Implementation of Bookmarks has not been done.
 **It will be updated in the future.
+
+![E-Commerce Sales](https://github.com/joy101020/POWER-BI-/assets/112161371/7dbf39a9-92d5-4c08-adf3-e31a8b60d0b4)
+
