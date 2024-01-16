@@ -13,6 +13,11 @@ This Project is based on the Human Resource management of any Organization.
 
  **This Project does not use any kind of Bookmark concepts in Power BI
 
+ **Sample
+
+ ![HR Analytics DashBoard](https://github.com/joy101020/POWER-BI-/assets/112161371/7bfa5612-7969-4854-9520-7ee5e2c26ecf)
+
+
 
 
  Project 2 - E-Commerce Sales
